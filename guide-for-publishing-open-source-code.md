@@ -16,7 +16,7 @@ The steps to publish source code are:
 7. [Work in the Open](#work-in-open) 
  
 ## 1. Seek Approvals 
- 
+ > To review for alignment with YG processes and structures
 ### Team 
 The Directive on Management of IT support the Digital Standard #3: Working in the open by default, via Mandatory Procedures for Enterprise Architecture Assessment (C2.3.8). 
 
